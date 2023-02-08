@@ -1,5 +1,4 @@
-# deprembilgi
-En son olan depremleri sıralar. #GeçmişOlsunTürkiye
+Türkiye'de en son olan depremleri gösterir. #GeçmişOlsunTürkiye
 
 • [Deprembilgi Website](https://gg.gg/deprembilgi)</br>
 • [Kişisel Website](https://www.queaxtra.me/)</br>
